@@ -1,0 +1,134 @@
+body {
+  background-color: #e0e0e0;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.navbar .nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-container {
+  margin: 0px 40px 0px 0px;
+}
+
+#tiideImg {
+  height: 60px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 25px;
+  font-size: 18px;
+  color: #000;
+}
+
+a:hover {
+  background-color: rgb(146, 145, 145);
+  color: black;
+}
+
+a.active {
+  background-color: #2196f3;
+  color: white;
+}
+
+.top-center {
+  margin-top: 30px;
+  text-align: center;
+  color: brown;
+  margin-bottom: 70px;
+}
+
+#p1 {
+  font-size: 30px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.box-text {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+#p2 {
+  font-size: 30px;
+  text-align: center;
+  color: steelblue;
+}
+
+.box-text #btn {
+  width: 150px;
+  height: 30px;
+  border: 0px;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.box-img .b-img {
+  height: 400px;
+}
+
+.line-drawer {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  height: 20px;
+  background-color: azure;
+}
+
+.wrap {
+  border-radius: 10px;
+  background-color: aliceblue;
+  border-left: 5px solid greenyellow;
+}
+
+.box-txt p {
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: justify;
+}
+
+/* #wel {
+  float: left;
+  font-size: 20px;
+}
+
+#success {
+  width: 350px;
+  padding: 10px;
+  border: inset rgb(223, 217, 217);
+  margin: 0;
+  color: whitesmoke;
+}
+
+#suc1 {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#wrapperDiv {
+  background-color: #191f35;
+}
+
+#pSuc {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.tp {
+} */
